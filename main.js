@@ -43,5 +43,10 @@ for (i = 0; i < 5; i++) {
     }
 }
 //RESULTADO
-alert("Sus números ordenados de menor a mayor son " + a1 + " < " + a2 + " < " + a3 + " < " + a4 + " < " + a5)
+alert(`Sus números ordenados de menor a mayor son: 
+${a1}
+${a2}
+${a3}
+${a4}
+${a5}`)
 
